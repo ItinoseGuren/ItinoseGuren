@@ -39,7 +39,3 @@
 - Python（FastAPI）
 - TypeScript（React、Next.js）
 - Docker
-
-**使用した技術**
-- React (Jotai, MUI)
-- Python (FastAPI, scikit-learn)
