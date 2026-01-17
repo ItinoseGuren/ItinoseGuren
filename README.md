@@ -29,7 +29,7 @@
 
 ## 🧑‍💻 個人開発
 ### 📌 CareLine（2025年10月～）
-<img src="images/careline_main.png" width="100%">
+<img src="images/careline_main.png">
 
 **使用した技術**
 - Python（FastAPI）
