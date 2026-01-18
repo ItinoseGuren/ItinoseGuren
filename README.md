@@ -1,4 +1,4 @@
-最終更新日：2026/01/17
+最終更新日：2026/01/18
 
 ## 💻 バイト・インターン
 
@@ -20,7 +20,7 @@
 - Docker
 
 ## 🧑‍💻 個人開発
-### 📌 CareLine（2025年10月～）
+### 📌 民間施設向け面会アプリ（2025年10月～）
 <div style="display: flex; gap: 16px;">
   <img src="images/careline_main.png" width="33%">
   <img src="images/careline_reservation_list.png" width="33%">
@@ -31,3 +31,4 @@
 - Python（FastAPI）
 - TypeScript（React、Next.js）
 - Docker
+- Figma
