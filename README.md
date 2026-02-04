@@ -26,6 +26,9 @@
   <img src="images/careline_reservation_list.png" width="33%">
   <img src="images/careline_config.png" width="33%">
 </div>
+<div style="display: flex;">
+  <img src="images/careline_staff.png">
+</div>
 
 **使用した技術**
 - Python（FastAPI）
